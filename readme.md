@@ -19,3 +19,8 @@ If you'd like to customize the appearance of the app, you can modify the `index.
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. 
+
+## How it looks
+<img src="CounterApp.png" alt="CounterAppp">
+
+
