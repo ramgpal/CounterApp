@@ -19,7 +19,3 @@ If you'd like to customize the appearance of the app, you can modify the `index.
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. 
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it and modify it as you see fit.
